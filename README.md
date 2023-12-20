@@ -10,5 +10,4 @@ Follow the instruction mentioned in notebooks. The execution order of the notebo
 2. Exploratory Data Analysis
 3. Preprocessing and Feature Engineering
 4. Machine learning models and performance
-5. Final function to predict any raw data
 
